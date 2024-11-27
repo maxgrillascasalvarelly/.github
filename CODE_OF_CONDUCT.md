@@ -2,6 +2,7 @@
 
 ## Our Pledge
 
+
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
@@ -16,7 +17,7 @@ diverse, inclusive, and healthy community.
 
 Examples of behavior that contributes to a positive environment for our
 community include:
-
+* This code of conduct, property rights and your attentions are part of GitHub cryptogatitos Grillasca 
 * Demonstrating empathy and kindness toward other people
 * Being respectful of differing opinions, viewpoints, and experiences
 * Giving and gracefully accepting constructive feedback
